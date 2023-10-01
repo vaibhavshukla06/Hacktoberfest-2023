@@ -13,7 +13,7 @@ Click the "Fork" button in the upper right-hand corner of this repository to cre
 Clone the repository to your local machine using the following command (replace `<your-username>` with your GitHub username):
 
 ```bash
-git clone https://github.com/<your-username>/Hacktoberfest.git
+git clone https://github.com/<your-username>/Hacktoberfest-2023.git
 ```
 
 ### Step 3: Create a Branch
