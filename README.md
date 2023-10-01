@@ -83,6 +83,11 @@ Write a clear and concise description of your changes in the Pull Request descri
 
 Click the "Create Pull Request" button to submit your changes for review.
 
+### Additional info: For Staged changes
+      
+       git reset <- file name ->
+       git reset
+
 ## Review and Merge
 
 I will review your Pull Requests and, if they are okay, merge them into the main project. Please be patient, as it may take some time for your PR to be reviewed.
