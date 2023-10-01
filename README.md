@@ -41,6 +41,8 @@ npm run dev
 Create a new branch to work on your changes:
 
 ```bash
+git branch
+git branch new-branch-name
 git checkout -b my-branch
 ```
 
