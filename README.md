@@ -1,6 +1,11 @@
 # Hacktoberfest Beginner's Guide
 
 Welcome to Hacktoberfest! This is a beginner-friendly guide to help you get started with your first Pull Request (PR) for Hacktoberfest. We're excited to have you join the open source community and contribute to this project.
+</br>
+<div align="center">
+<img  alt="bannar" align="center" src="https://i.postimg.cc/Ssyr2rn7/hf10-banner-1032x600.png">
+</div>
+
 
 ## Getting Started
 
@@ -89,7 +94,9 @@ I will review your Pull Requests and, if they are okay, merge them into the main
 ## Additional Resources
 
 - [Git and GitHub Guide Video](https://youtu.be/h-LgFUiK_UM)
-
+- [Youtube video about hacktoberfest](https://www.youtube.com/watch?v=kxbTQYoWK_4)
 
 
 If you have any questions or need help, don't hesitate to reach out. We're here to support you on your Hacktoberfest journey.
+
+
