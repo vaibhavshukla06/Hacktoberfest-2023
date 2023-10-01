@@ -1,10 +1,5 @@
 const Feedbacks = () => {
-  return (
-    <div>
-      Feedbacks
-    </div>
+  return <div className="text-center">Feedbacks</div>;
+};
 
-  )
-}
-
-export default Feedbacks
+export default Feedbacks;
