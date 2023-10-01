@@ -28,7 +28,7 @@ cd Hacktoberfest/
 npm install
 ```
 
-### Step 6: 
+### Step 6: Start your development by:
 
 ```bash
 npm run dev
