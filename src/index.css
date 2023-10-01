@@ -8,9 +8,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif, Arial, Helvetica, sans-serif;
   scroll-behavior: smooth;
   color-scheme: dark;
+   
 }
 
 .hash-span {
@@ -116,7 +117,7 @@
 
 /* canvas- styles */
 .canvas-loader {
-  font-size: 10px;
+  font-size: 100px;
   width: 1em;
   height: 1em;
   border-radius: 50%;
